@@ -455,7 +455,7 @@ int main(int argc, char **argv)
     glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGB);
     glutInitWindowSize(800, 600);
     glutInitWindowPosition(200, 50);
-    glutCreateWindow("3GC3 A1 - stepannj");
+    glutCreateWindow("Paint Program");
     glutDisplayFunc(myDisplay);
     glutMotionFunc(MouseFuncs);
     glutKeyboardFunc(Keyboard);
