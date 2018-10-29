@@ -3,4 +3,5 @@ OpenGL and GLUT are used to create a paint program where the user can draw freel
 
 User can also change the brush size by typing "-" to decrease or "=" to increase. By right clicking, there is a menu which has submenus for colour/shape customization, as well as an option to clear the screen.
 
-See paintPic for an example.
+See paintPic for an example:
+![ScreenShot](https://github.com/zicopan/C-CppProjects/blob/master/paintProgram/paintPic.png)
