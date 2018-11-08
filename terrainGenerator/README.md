@@ -34,3 +34,15 @@ Right clicking brings up terrain size menu
 ```
 
 These are a few pictures of some terrains the program has generated:
+
+![ScreenShot](https://github.com/zicopan/C-CppProjects/blob/master/terrainGenerator/terrainPic0.png)
+
+![ScreenShot](https://github.com/zicopan/C-CppProjects/blob/master/terrainGenerator/terrainPic1.png)
+
+![ScreenShot](https://github.com/zicopan/C-CppProjects/blob/master/terrainGenerator/terrainPic2.png)
+
+![ScreenShot](https://github.com/zicopan/C-CppProjects/blob/master/terrainGenerator/terrainPic3.png)
+
+![ScreenShot](https://github.com/zicopan/C-CppProjects/blob/master/terrainGenerator/terrainPic4.png)
+
+Ideas to continue with this project include adding a character which can be moved on the terrain.
