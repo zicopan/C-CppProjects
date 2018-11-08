@@ -723,7 +723,7 @@ int main(int argc, char **argv)
 
     glutInitWindowSize(900, 900);    
     glutInitWindowPosition(100, 100); 
-    glutCreateWindow("3GC3 A2 - stepannj"); 
+    glutCreateWindow("Terrain Generator"); 
 
     glutDisplayFunc(myDisplay); 
     glutKeyboardFunc(keyboard); 
