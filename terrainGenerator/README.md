@@ -1,6 +1,6 @@
 # Terrain Generator Program
 
-Random terrains are generated with OpenGL/GLUT using a couple algorithms. The default option is the circles algorithm, which can be learned about here http://www.lighthouse3d.com/opengl/terrain/index.php?circles
+Random terrains are generated with OpenGL/GLUT and C++ using a couple of algorithms. The default option is the circles algorithm, which can be learned about here http://www.lighthouse3d.com/opengl/terrain/index.php?circles
 
 Another option is the fault algorithm, which can be learned about here http://www.lighthouse3d.com/opengl/terrain/index.php?fault
 
